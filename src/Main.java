@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
+       System.out.println("USUÁRIO: admin");
+       System.out.println("SENHA: *****");
+       System.out.println("ENTRAR");
 
     }
 }
