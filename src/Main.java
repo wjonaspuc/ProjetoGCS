@@ -3,9 +3,20 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("CONSULTA MARCADA COM SUCESSO");
-        System.out.println("MÉDICO: Fulano Silva");
-        System.out.println("ESPECIALIDADE: Ortopedista");
+        System.out.println("SEJA BEM VINDO(A)");
+        System.out.println("USUÁRIO: admin");
+        System.out.println("SENHA: *****");
+        System.out.println("ENTRAR");
+        
+        System.out.println("CADASTRO DE MÉDICO:");
+        System.out.println("Nome: Fulano");
+        System.out.println("Sobrenome: Souza");
+        System.out.println("Especialidade: Dermatologista");
+        System.out.println("Horários: segunda a sexta de 08:00 às 12:00");
+
+        System.out.println("CONSULTA MARCADA COM SUCESSO:");
+        System.out.println("MÉDICO: Fulano Souza");
+        System.out.println("ESPECIALIDADE: Dermatologista");
         System.out.println("PACIENTE: Sicrano dos Santos");
         System.out.println("DATA: 10/01/2024");
         System.out.println("HORA: 10:00");
